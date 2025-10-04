@@ -1,0 +1,5 @@
+{
+  "name": "Ternary Cellular Automaton Simulator",
+  "description": "A web-based simulator for a custom Ternary Cellular Automaton rule based on Fibonacci sequences and digital roots, inspired by Mathematica/Wolfram Language examples. Visualize complex, syntropic patterns evolving from simple initial conditions.",
+  "requestFramePermissions": []
+}
